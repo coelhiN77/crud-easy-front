@@ -1,0 +1,15 @@
+.btn{ 
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: blue;
+}
+
+.btn2 {
+  cursor: pointer;
+}
+
+.btn2:hover {
+  color: red;
+}

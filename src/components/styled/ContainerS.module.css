@@ -1,0 +1,19 @@
+.btn {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: blue;
+}
+
+.btn2 {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  color: red;
+}
